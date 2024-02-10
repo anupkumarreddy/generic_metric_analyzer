@@ -1,0 +1,4 @@
+# KERNEL: UVM_INFO /home/runner/metric_analyzer.sv(70) @ 0: metric_analyzer [METRIC_ANALYZER] Name		         Total		    Sum		      Min		      Max	 Average
+# KERNEL: UVM_INFO /home/runner/metric_analyzer.sv(74) @ 0: metric_analyzer [METRIC_ANALYZER] bandwidth	         19	     380000	       2000	      38000	20000.000000
+# KERNEL: UVM_INFO /home/runner/metric_analyzer.sv(74) @ 0: metric_analyzer [METRIC_ANALYZER] datarate	         19	      38000	        200	       3800	2000.000000
+# KERNEL: UVM_INFO /home/runner/metric_analyzer.sv(74) @ 0: metric_analyzer [METRIC_ANALYZER] latency	           19	        380	          2	         38	20.000000
